@@ -11,7 +11,9 @@ A escola necessita de um sistema para gerir o stock de materiais (como canetas, 
 
 
 #**Requisitos**
+
 *O programa deve:*
+
 Registar novos materiais no stock.
 Consultar o stock de um material específico.
 Atualizar a quantidade em stock (adição ou remoção).
