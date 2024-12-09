@@ -27,6 +27,8 @@ A escola necessita de um sistema para gerir o stock de materiais (como canetas, 
 
 --Exibir o estado geral do stock.
 
+----------------------------------------------------------------------------------------------------------
+
 # **O programa será composto pelas seguintes funções:**
 
 --adicionar_material(): Para registar novos materiais.
